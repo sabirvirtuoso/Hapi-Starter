@@ -1,0 +1,22 @@
+{
+  "name": "hapi-starter",
+  "version": "1.0.0",
+  "description": "A simple starter project to learn hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.2.0",
+    "h2o2": "^8.1.2",
+    "handlebars": "^4.0.12",
+    "hapi": "^17.5.4",
+    "hapi-auth-basic": "^5.0.0",
+    "inert": "^5.1.0",
+    "joi": "^13.6.0",
+    "rot13-transform": "^1.0.0",
+    "vision": "^5.4.0"
+  }
+}
